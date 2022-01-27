@@ -1,0 +1,14 @@
+{
+  "name": "@rollo-canela/first.js",
+  "version": "1.0.3",
+  "description": "First.js is a javascript library for printing messages with a prebuild hello world",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rollo-canela",
+  "license": "MIT"
+}
